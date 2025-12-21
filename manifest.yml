@@ -1,0 +1,15 @@
+app:
+  id: ari:cloud:ecosystem::app/65c24f25-846c-423c-8092-518b8ea5e4f7
+  description: AI-powered Kubernetes deployment and GitOps assistant for Jira
+  runtime:
+    name: nodejs20.x
+modules:
+  rovo:agent:
+    - key: devops-commander-agent
+      name: DevOps Commander
+      description: Kubernetes deployment strategies and incident guidance
+      prompt: >
+        You are DevOps Commander, an AI assistant for Kubernetes deployment strategies and incident management.
+        Help users with deployment approaches, troubleshooting, and GitOps practices.
+        Provide clear, actionable recommendations.
+
