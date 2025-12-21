@@ -260,6 +260,8 @@ Get your API key from [Anthropic Console](https://console.anthropic.com/) and se
    - Resource constraint analysis
    - Node health metrics
    - Recommended fixes
+   - 
+   ![Cluster Health Analysis - Pod Status and Resource Metrics](./docs/screenshots/cluster-health-analysis.png)
 
 ### Example 2: Incident Response
 
@@ -272,6 +274,8 @@ Get your API key from [Anthropic Console](https://console.anthropic.com/) and se
    - Identifies root cause (e.g., image pull failure, RBAC issue)
    - Generates remediation steps
    - Creates action items in Jira
+  
+   - ![Incident Response Workflow - Root Cause Analysis and Remediation Steps](./docs/screenshots/incident-response-workflow.png)
 
 ### Example 3: On-Call Handoff
 
@@ -283,6 +287,8 @@ Get your API key from [Anthropic Console](https://console.anthropic.com/) and se
    - Recent deployments
    - Cluster anomalies
    - Key contact points
+  
+   - ![On-Call Handoff Summary - Team Transition Documentation](./docs/screenshots/on-call-handoff.png)
 
 ---
 
@@ -297,6 +303,8 @@ Monitor your platform health across:
 - ✅ Jira APIs
 - ✅ Identity APIs
 - ✅ And 20+ more services
+
+- ![Platform Health Dashboard - Monitoring Atlassian Services](./docs/screenshots/platform-health-dashboard.png)
 
 ---
 
